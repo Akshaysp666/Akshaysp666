@@ -10,14 +10,14 @@
 
 - 💬 Ask me about **Testing and test cases**
 
-- 📫 How to reach me **akshaypattanshetti24@gmail.com**
+- 📫 How to reach me **akshaysp368@gmail.com**
 
 - ⚡ Fun fact **I find bugs faster than I find my keys 🔍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:akshaypattanshetti24@gmail.com">
-  <img src="https://img.shields.io/badge/Email-akshaypattanshetti24%40gmail.com-red?style=for-the-badge&logo=gmail">
+  <a href="mailto:akshaysp368@gmail.com">
+  <img src="https://img.shields.io/badge/Email-akshaysp368@gmail.com-red?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="tel:+918494925296">
